@@ -9,7 +9,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
-
+Write down the useful git commands in the documentation template
 ### Files used
 Include the files used
 
